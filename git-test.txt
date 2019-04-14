@@ -2,3 +2,4 @@ how to use git
 first change
 change3
 this is a 分支 test
+添加的提交 in here
